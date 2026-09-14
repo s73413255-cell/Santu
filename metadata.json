@@ -1,0 +1,6 @@
+{
+  "name": "Small Shop Tycoon",
+  "description": "A vibrant cartoon mobile tycoon simulation game where you grow a small street grocery shop into a bustling supermarket and shopping mall.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
